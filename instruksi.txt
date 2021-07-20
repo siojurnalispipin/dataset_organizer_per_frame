@@ -1,0 +1,18 @@
+#Pembuatan dataset test
+python dataset_organizer.py "D:/Thesis/DATASET/simple-test-2/src/fake" "D:/Thesis/DATASET/simple-test-2/fake"
+
+
+python dataset_organizer.py "D:/Thesis/DATASET/simple-test-2/src/real" "D:/Thesis/DATASET/simple-test-2/real"
+
+
+
+
+?? Google collab tidak dapat diinstall di lokal.
+Install:
+git clone https://github.com/googlecolab/colabtools.git
+cd colabtools
+python setup.py install
+And then check if you have it installed :)
+
+pip list | grep colab
+google-colab                       0.0.1a1

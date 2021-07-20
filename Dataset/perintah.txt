@@ -1,0 +1,1 @@
+python dataset_organizer.py "D:/Thesis/src/Deepfake-Detection/src/RCN/Dataset" "D:/Thesis/src/Deepfake-Detection/src/RCN/Dataset/organizer"

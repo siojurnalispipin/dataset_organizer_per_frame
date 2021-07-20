@@ -1,0 +1,6 @@
+D:/Thesis/src/Deepfake-Detection/src/RCN/Dataset/organizer\id0_id1_0002 len:0
+D:/Thesis/src/Deepfake-Detection/src/RCN/Dataset/organizer\id0_id1_0002 len:0
+D:/Thesis/src/Deepfake-Detection/src/RCN/Dataset/organizer\id0_id1_0002 len:0
+D:/Thesis/src/Deepfake-Detection/src/RCN/Dataset/organizer\id0_id1_0002 len:0
+D:/Thesis/DATASET/simple-test-2/fake\id0_id1_0002_fake len:35
+D:/Thesis/DATASET/simple-test-2/real\id0_0002_real len:35
